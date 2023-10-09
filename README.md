@@ -6,8 +6,6 @@ A introductory python script for generating statistics and computing of final gr
 - [Features](#features)
 - [Usage](#usage)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
